@@ -5,7 +5,7 @@
 #
 
 FROM centos:centos7
-MAINTAINER dodo <lhuibo@gmail.com>
+MAINTAINER bing <klqxiansen@163.com>
 
 ENV TZ "Asia/Shanghai"
 
